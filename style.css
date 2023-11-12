@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(255, 72, 0);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+header a{
+    border: 5px solid green;
+    border-radius: 15px;
+    padding: 5px;
+}
+main{
+    background-color: yellowgreen;
+}
+footer{
+    background-color: yellow;
+}
+nav a{
+   font-size: 20px; 
+   text-decoration:none;
+   color: aquamarine;
+   border:3px solid navy;
+   border-radius:10px;
+   background-color:navy;
+}
+.von{
+    border: 5px solid green;
+    border-radius: 15px;
+    padding: 5px;
+}
